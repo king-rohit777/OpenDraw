@@ -6,7 +6,7 @@ A simple imitation of the popular whiteboard application , with different featur
           
 https://drive.google.com/file/d/11YiWOqXLtR4ZYh8V3mR_MuS04lbnAjbV/view?usp=sharing
        
-## Deployment                     
+## Deployment                              
           
 To see this project visit              
               
